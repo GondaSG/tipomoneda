@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: Project2
+      port: 27017
+  application:
+    name: currency-type-application
+
+server:
+  port: 8110
